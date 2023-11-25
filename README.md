@@ -1,1 +1,1 @@
-# wip__opengl__glfw__glad
+# opengl__glfw__glad
